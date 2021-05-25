@@ -11,7 +11,7 @@
   - Chess
   - Baduk/Go
   - Art
-- 🌱 I’m currently learning react and c#
+- 🌱 I’m currently learning figma and react in terms of web development and c,c++ and c# for mainly game development.
 - 💞️ I’m looking to collaborate on computer games and web development projects
 - 📫 How to reach me via email easily at: somet@pm.me
 
