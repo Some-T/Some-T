@@ -14,6 +14,7 @@
 - 🌱 I’m currently learning figma and react in terms of web development and c,c++ and c# for mainly game development.
 - 💞️ I’m looking to collaborate on computer games and web development projects
 - 📫 How to reach me via email easily at: somet@pm.me
+- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z152W4S)
 
 <!---
 Some-T/Some-T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
